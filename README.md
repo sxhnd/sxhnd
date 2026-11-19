@@ -25,13 +25,12 @@
 | [**IK_Solver**](https://github.com/sxhnd/IK_Solver) | Inverse kinematics for planar robot arms, built from scratch in Python |
 | [**pythonprojects**](https://github.com/sxhnd/pythonprojects) | Monte Carlo simulation of the birthday paradox |
 | [**learningJavaProjects**](https://github.com/sxhnd/learningJavaProjects) | Java console programs: games, menus, input validation, binary search |
-| [**NeuralNetworkProgression**](https://github.com/sxhnd/NeuralNetworkProgression) | Building up a neural network step by step |
 
 ## Currently
 
 - Finishing the IK solver
-- Going deeper on neural networks and backpropagation
-- Getting better at Java
+- Reading papers to see how things work
+- Getting better at Java for coursework
 
 ## Outside of code
 
