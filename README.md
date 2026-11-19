@@ -29,7 +29,7 @@
 ## Currently
 
 - Finishing the IK solver
-- Reading papers to see how things work
+- Reading robotics and ML papers
 - Getting better at Java for coursework
 
 ## Outside of code
