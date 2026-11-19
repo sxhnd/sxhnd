@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andre 👋</h1>
 
 <p align="center">
-  Math &amp; CS at UGA (transfering in the fall for GT MACS). I like building things from scratch to see how they actually work.
+  Math &amp; CS at UGA (transferring in the fall for GT MACS). I like building things from scratch to see how they actually work.
 </p>
 
 <p align="center">
