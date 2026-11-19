@@ -33,7 +33,7 @@
 - Getting better at Java for coursework
 
 ## Outside of code
-📖 Manga (Favs are Kingdom, HxH, & OP
+📖 Manga (Favs are Kingdom, HxH, & OP)
 🚶 Walks
 
 ---
