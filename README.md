@@ -23,17 +23,16 @@
 | --- | --- |
 | [**IK_Solver**](https://github.com/sxhnd/IK_Solver) | Inverse kinematics for planar robot arms, built from scratch in Python |
 | [**pythonprojects**](https://github.com/sxhnd/pythonprojects) | Monte Carlo simulation of the birthday paradox |
-| [**learningJavaProjects**](https://github.com/sxhnd/learningJavaProjects) | Java console programs: games, menus, input validation, binary search |
 
 ## Currently
 
 - Finishing the IK solver
 - Reading robotics and ML papers
-- Getting better at Java for coursework
 
 ## Outside of code
-📖 Manga (Favs are Kingdom, HxH, & OP)
-🚶 Walks
+- Manga (Favs are Kingdom, HxH, & OP)
+- Walks/Running
+- Music (Classical, UG, & Indie)
 
 ---
 
