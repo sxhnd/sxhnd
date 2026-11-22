@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andre 👋</h1>
 
 <p align="center">
-  Math &amp; CS at UGA (transferring in the fall for GT MACS). I like building things from scratch to see how they actually work.
+  Math &amp; CS at UGA (transferring in the fall for GT MACS). I’ve always been fascinated by how things behave and why they behave the way they do. I spent my whole life being fascinated by Philosophy, Psychology, and Neuroscience, so I thought I’d become a doctor. That changed when I watched the AlphaGo documentary in my senior year of high school.
 </p>
 
 <p align="center">
